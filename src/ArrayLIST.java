@@ -16,7 +16,7 @@ list.add("Monika");
 list.add("Monika");
 list.add("Monika");
 list.add("k");
-
+list.add("something");
 
 System.out.println(list);
 
