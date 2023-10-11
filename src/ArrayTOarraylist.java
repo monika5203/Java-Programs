@@ -10,7 +10,7 @@ public class ArrayTOarraylist {
 		list.add("nakul");
 		list.add("Ayra");
 		list.add("vyas");
-		
+		System.out.println(list);
 		Object[] array=list.toArray();
 		for(Object object: array)
 		{
@@ -23,3 +23,4 @@ public class ArrayTOarraylist {
 	}
 
 }
+

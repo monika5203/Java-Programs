@@ -3,7 +3,7 @@ public class AddTwoArraylist {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+//Add two arrayList
 		ArrayList<String>list1=new ArrayList<String>();
 		list1.add("Monik");
 		list1.add("bh");

@@ -11,7 +11,7 @@ public class Trimtosize {
 		list.add("a");
 		list.add("princess");
 		list.trimToSize();
-	
+	System.out.println(list);
 	}
 
 }

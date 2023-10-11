@@ -1,0 +1,11 @@
+{
+  "name": "npm-version",
+  "version": "1.0.0",
+  "description": "npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm init"
+  },
+  "author": "",
+  "license": "ISC"
+}
