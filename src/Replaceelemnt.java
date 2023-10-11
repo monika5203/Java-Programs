@@ -10,7 +10,7 @@ public class Replaceelemnt {
 			lit.add("Ayra");
 			lit.add("Nakul");
 			lit.add("Ayra");
-			lit.add("Monika");
+			lit.add("Mondefika");
 			lit.set(1, "Baby");
 			System.out.println(lit);
 	}
